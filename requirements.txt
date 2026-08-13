@@ -1,4 +1,4 @@
-gradio
+streamlit
 tensorflow
 numpy
 pillow
