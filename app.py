@@ -8,7 +8,7 @@ st.write("Upload a panoramic X-ray image to predict contact probability.")
 
 @st.cache_resource
 def get_model():
-    return load_model("ian_contact_model.h5")
+    return load_model("ian_contact_model2.h5")
 
 model = get_model()
 
